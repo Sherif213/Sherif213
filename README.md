@@ -2,7 +2,7 @@
 
 I am a Software developer , interested in AI , Machine learning and Backend.
 
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning JavaScript and Python
 - 📫 How to reach me: elashrySerif@gmail.com
 - ⚡ Fun fact: I’m the kind of person who writes "Hello, World!" for fun.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
