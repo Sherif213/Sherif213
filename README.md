@@ -9,10 +9,12 @@ I am a Software developer , interested in AI , Machine learning and Backend.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/ElashrySerif" target="blank"><i align="center" class="devicon-twitter-original" alt="Serif_Elashry" height="40" width="60" ></i>
-</a>
-<a href="https://www.linkedin.com/in/serifelashry/" target="blank"><i align="center" class="devicon-linkedin-plain colored" alt="Serif_ELashry" height="40" width="60" ></i>
-</a>
+    <a href="https://x.com/ElashrySerif" target="_blank">
+        <i class="devicon-twitter-original" alt="Serif_Elashry" style="font-size: 40px;"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/serifelashry/" target="_blank">
+        <i class="devicon-linkedin-plain colored" style="font-size: 40px;"></i>
+    </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sherif213&label=Profile%20views&color=0e75b6&style=flat" alt="Sherif213" /> </p>
