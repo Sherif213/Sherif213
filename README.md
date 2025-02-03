@@ -31,11 +31,11 @@ I am a Software developer , interested in AI , Machine learning and Backend.
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sherif213&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Sherif213"/>
   </a>
 </div>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Sherif213">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherif213&&theme=tokyonight" alt="Sherif213" />
   </a>
-</p>
+</p> -->
 
 ------
 <h3 align="left">Languages and Tools:</h3>
