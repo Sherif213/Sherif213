@@ -3,7 +3,7 @@
 I am a Software developer , interested in AI , Machine learning and Backend.
 
 - 🌱 I’m currently learning JavaScript and Python (Odoo Framework) 
-- 📫 How to reach me: elashrySerif@gmail.com
+- 📫 How to reach me: s.elashry@codesncolors.com
 - ⚡ Fun fact: Don't touch it , it is working!!!.
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
